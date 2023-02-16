@@ -1,7 +1,6 @@
 # ignore all files in the data directory
 
-_data/
-_images/
+data/**
 
 writing/
 
