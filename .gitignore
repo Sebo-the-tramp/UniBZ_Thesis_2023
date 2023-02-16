@@ -1,8 +1,17 @@
-# ignore all files in the data directory
+# ignore all files in the folders below
 
-data/**
+data/*
+!data/_images/
 
-writing/
+data/_images/*
+!data/_images/Synthetic/
+
+data/_images/Synthetic/*
+!data/_images/Synthetic/RandomShots/
+!data/_images/Synthetic/Animation_short_undistorted/
+
+
+writing/*
 
 programs/openpose
 programs/python
