@@ -1,3 +1,6 @@
 [submodule "programs/openpose"]
 	path = programs/openpose
 	url = https://github.com/Sebo-the-tramp/openpose.git
+[submodule "programs/HMD/FFOS-Unity-VR-Template"]
+	path = programs/HMD/FFOS-Unity-VR-Template
+	url = https://github.com/Sebo-the-tramp/FFOS-Unity-VR-Template.git
