@@ -1,0 +1,3 @@
+[submodule "programs/openpose"]
+	path = programs/openpose
+	url = https://github.com/Sebo-the-tramp/openpose.git
