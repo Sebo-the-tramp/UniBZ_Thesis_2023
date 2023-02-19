@@ -10,8 +10,8 @@ data/_images/Synthetic/*
 !data/_images/Synthetic/RandomShots/
 !data/_images/Synthetic/Animation_short_undistorted/
 
-
 writing/*
 
 programs/python
+programs/mixamo_converter
 
