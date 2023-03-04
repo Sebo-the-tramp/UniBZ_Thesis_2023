@@ -2,15 +2,7 @@
 
 ### Abstract
 
-This research work explores new technologies and trends in the field of computer vision, focusing on real-time 3D human pose tracking 
-using deep learning based algorithms. The goal is to create a system that allows tracking the movement and position of humans in real time
-in a laboratory, using images from multiple fixed cameras and a mobile camera. During this research, the uses of new 
-technologies such as virtual reality and the digital simulation of a physical environment are going to explored and evaluated. 
-The core concept is to be able to achieve a high accuracy of tracking of the person using only an RGB video stream, 
-which can be modelled and analysed by different software in real time. Great importance was placed on the
-design of the entire system in a manner that it can be easily extended and modified in the future.
-This is going to lay the foundations for more extensive and detailed research of new forms of human-machine interaction, new ways of
-of remote management of a physical environment and new forms of robotics.
+This research work explores new technologies and trends in the field of computer vision, focusing on real-time 3D human pose tracking using deep learning algorithms. The goal is to create a system that allows tracking the movement and position of humans in real time in a laboratory, using images from multiple fixed cameras and a mobile camera. During this research, the uses of new technologies such as virtual reality and the digital simulation of a physical environment are going to be explored and evaluated. The core concept is to be able to achieve high accuracy in the tracking of the person using only an RGB video stream, which can be modeled and analyzed by different software in real-time. Great importance was placed on the design of the entire system in a manner that it can be easily extended and modified in the future. This is going to lay the foundations for more extensive and detailed research of new forms of human-machine interaction, new ways of remote management of a physical environment, and new forms of robotics.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
