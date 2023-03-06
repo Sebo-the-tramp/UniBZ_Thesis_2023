@@ -12,7 +12,6 @@ data/_images/Synthetic/*
 
 writing/*
 
-programs/python
 programs/mixamo_converter
 
 tmp/
