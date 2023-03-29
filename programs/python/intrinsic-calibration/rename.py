@@ -12,8 +12,9 @@ def rename_files(folder):
 
 # for each folder
 
-res = [x for x in os.listdir("../") if any(i.isdigit() for i in x) and not any(i == "." for i in x)]
+res = [x for x in os.listdir("../charuco/") if any(i.isdigit() for i in x) and not any(i == "." for i in x)]
 print(res)
 
 for folder in res:
-    rename_files("../" + folder)
+    print(folder)
+    #rename_files("../" + folder)

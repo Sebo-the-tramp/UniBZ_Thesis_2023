@@ -63,8 +63,7 @@ def doICP(x_guess, points, Z, iterations, damping, kernel_threshold):
             H += J.T @ J
             b += J.T @ e
 
-            chi += e.T @ e
-            #print("chi", chi)
+            chi += e.T @ e            
             if(chi > kernel_threshold):
                 e = math.sqrt(kernel_threshold/chi) * e
                 chi = kernel_threshold
